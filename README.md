@@ -176,8 +176,8 @@ Feel free to use and adapt for learning or production.
 
 ---
 
-**Author**: *Jaya Chandra Kadiveti* 
+**Author**: *Rajgopal Singh* 
 
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
+**LinkedIn**: [username]([https://www.linkedin.com/in/rajgopalsingh/]) 
 
-**Contact**: [Kadivetijayachandra@gmail.com](mailto:Kadivetijayachandra@gmail.com)
+**Contact**: [rajgopal.singh03@gmail.com](mailto:rajgopal.singh03)
