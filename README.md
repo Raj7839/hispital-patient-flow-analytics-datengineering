@@ -178,6 +178,6 @@ Feel free to use and adapt for learning or production.
 
 **Author**: *Rajgopal Singh* 
 
-**LinkedIn**: [username](https://www.linkedin.com/in/rajgopalsingh/) 
+**LinkedIn**: *https://www.linkedin.com/in/rajgopalsingh/* 
 
 **Contact**: [rajgopal.singh03@gmail.com](mailto:rajgopal.singh03)
